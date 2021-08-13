@@ -1,9 +1,9 @@
-# ÊÊÓÃÓÚ pascal ¿ª·¢µÄ .gitignore
+# é€‚ç”¨äºŽ pascal å¼€å‘çš„ .gitignore
 #
-# Èô²»ÐèÒªºöÂÔ£¬ÔòÔÚÐÐÊ×¼Ó¾®ºÅ(#)£»·ñÔò£¬ÔòÉ¾³ýÐÐÊ×µÄ¾®ºÅ(#)¡£
-# ÈôÐèÒªÆäËüºöÂÔ¹æÔò£¬ÔòÔÚÎÄÄ©½øÐÐ²¹³ä¡£
+# è‹¥ä¸éœ€è¦å¿½ç•¥ï¼Œåˆ™åœ¨è¡Œé¦–åŠ äº•å·(#)ï¼›å¦åˆ™ï¼Œåˆ™åˆ é™¤è¡Œé¦–çš„äº•å·(#)ã€‚
+# è‹¥éœ€è¦å…¶å®ƒå¿½ç•¥è§„åˆ™ï¼Œåˆ™åœ¨æ–‡æœ«è¿›è¡Œè¡¥å……ã€‚
 
-# ÀúÊ·ÎÄ¼þºÍ×Ô¶¯±¸·ÝÎÄ¼þ
+# åŽ†å²æ–‡ä»¶å’Œè‡ªåŠ¨å¤‡ä»½æ–‡ä»¶
 __history/
 __recovery/
 backup/
@@ -13,7 +13,7 @@ lib/
 *.~*
 *.*~
 
-# IDE Éú³ÉµÄ±¾µØÎÄ¼þ
+# IDE ç”Ÿæˆçš„æœ¬åœ°æ–‡ä»¶
 *.local
 *.identcache
 *.stat
@@ -21,7 +21,7 @@ lib/
 *.tvsconfig
 *.lps
 
-# ÖÐ¼ä±àÒëÎÄ¼þ
+# ä¸­é—´ç¼–è¯‘æ–‡ä»¶
 *.dcu
 *.ddp
 *.compiled
@@ -29,11 +29,11 @@ lib/
 *.or
 *.ppu
 
-# ±àÒëºóµÄ×ÊÔ´ÎÄ¼þ
+# ç¼–è¯‘åŽçš„èµ„æºæ–‡ä»¶
 *.res
 *.dcr
 
-# ±àÒëºóµÄ¿ÉÖ´ÐÐÎÄ¼þ
+# ç¼–è¯‘åŽçš„å¯æ‰§è¡Œæ–‡ä»¶
 *.exe
 *.a
 # Win
@@ -43,11 +43,11 @@ lib/
 # Mac
 *.dylib
 
-# ÈÕÖ¾
+# æ—¥å¿—
 log/
 logs/
 *.log
 
-# ×Ô¶¨Òå
+# è‡ªå®šä¹‰
 bin/
 dcu/
